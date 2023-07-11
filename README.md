@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Faiza and I am a new Fullstack Software Engineer👋
 
 <!--
 **FaizaJibril/FaizaJibril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
