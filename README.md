@@ -1,4 +1,4 @@
-### Hi there, My name is Faiza Jibril and I am a multifaceted software engineer
+### Hi there, My name is Faiza Jibril and I love solving problems with code
 <!--
 **FaizaJibril/FaizaJibril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
